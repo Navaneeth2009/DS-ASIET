@@ -1,0 +1,70 @@
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 1
+Enter data to insert at beginning: 23
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 2
+Enter data to insert at end: 52
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 3
+Enter data to insert: 56
+Enter the value after which to insert: 23
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 4
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 7
+Linked List: 56 -> 52 -> NULL
+
+Menu:
+1. Insert at Beginning
+2. Insert at End
+3. Insert Between Values
+4. Delete from Beginning
+5. Delete from End
+6. Delete After Value
+7. Display List
+8. Exit
+Enter your choice: 8
