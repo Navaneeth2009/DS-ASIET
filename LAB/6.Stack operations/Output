@@ -1,0 +1,60 @@
+Enter the maximum size of the stack (up to 100): 8
+
+Stack Menu:
+1. Initialize Stack
+2. Push
+3. Pop
+4. Peek
+5. Display Stack
+6. Clear Console
+7. Exit
+Enter your choice (1-7): 2
+Enter the item to push: 2
+Pushed 2 onto the stack.
+
+Stack Menu:
+1. Initialize Stack
+2. Push
+3. Pop
+4. Peek
+5. Display Stack
+6. Clear Console
+7. Exit
+Enter your choice (1-7): 2
+Enter the item to push: 5
+Pushed 5 onto the stack.
+
+Stack Menu:
+1. Initialize Stack
+2. Push
+3. Pop
+4. Peek
+5. Display Stack
+6. Clear Console
+7. Exit
+Enter your choice (1-7): 2
+Enter the item to push: 9
+Pushed 9 onto the stack.
+
+Stack Menu:
+1. Initialize Stack
+2. Push
+3. Pop
+4. Peek
+5. Display Stack
+6. Clear Console
+7. Exit
+Enter your choice (1-7): 5
+Stack contents:
+9
+5
+2
+
+Stack Menu:
+1. Initialize Stack
+2. Push
+3. Pop
+4. Peek
+5. Display Stack
+6. Clear Console
+7. Exit
